@@ -1,0 +1,2 @@
+conda create -n finance_bot_env python=3.11.9
+conda activate finance_bot_env
