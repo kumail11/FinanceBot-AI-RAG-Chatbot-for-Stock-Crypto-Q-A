@@ -1,0 +1,23 @@
+# API Keys & Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# ChromaDB
+chroma_db/
+
+# Virtual Environment
+finance_bot_env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
