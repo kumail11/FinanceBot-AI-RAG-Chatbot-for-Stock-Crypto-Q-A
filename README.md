@@ -26,3 +26,6 @@ Key Features
 | Sentiment       | VADER (Local, No API needed)                   |
 | Frontend        | Vanilla HTML/CSS/JS (Dark Theme)               |
 | Deployment      | Docker, Uvicorn                                |
+
+
+https://github.com/user-attachments/assets/05553ff2-8f4a-48a9-8f44-f0e9495131a7
